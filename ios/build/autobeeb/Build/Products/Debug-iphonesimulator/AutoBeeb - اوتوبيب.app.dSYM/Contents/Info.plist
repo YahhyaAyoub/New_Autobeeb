@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.xcode.dsym.com.autobeeb.ab</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>dSYM</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.5.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1501</string>
+	<key>FirebaseCrashlyticsCollectionEnabled</key>
+	<false/>
+	<key>GADApplicationIdentifier</key>
+	<string>ca-app-pub-7144885993401749~4135446082</string>
+	<key>firebase_json_raw</key>
+	<string>eyJhZG1vYl9pb3NfYXBwX2lkIjogImNhLWFwcC1wdWItNzE0NDg4NTk5MzQwMTc0OX40MTM1NDQ2MDgyIiwgImFkbW9iX2FuZHJvaWRfYXBwX2lkIjogImNhLWFwcC1wdWItNzE0NDg4NTk5MzQwMTc0OX4zNDg2NzU0OTkxIn0=</string>
+</dict>
+</plist>

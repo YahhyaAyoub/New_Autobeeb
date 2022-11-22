@@ -1,0 +1,11 @@
+dependencies: \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/libwebp/src/demux/anim_decode.c \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Target\ Support\ Files/libwebp/libwebp-prefix.pch \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/libwebp/src/utils/utils.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/libwebp/src/dsp/dsp.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/libwebp/src/webp/types.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/libwebp/src/webp/decode.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/libwebp/src/webp/./types.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/libwebp/src/webp/demux.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/libwebp/src/webp/./decode.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/libwebp/src/webp/./mux_types.h

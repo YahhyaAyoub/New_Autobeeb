@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceID.m \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Public/FIRInstanceID.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FirebaseCore/FIRComponent.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FirebaseCore/FIRComponentContainer.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FirebaseCore/FIRComponentType.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FirebaseCore/FIRLibrary.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FirebaseCore/FIROptions.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/GoogleUtilities/GULAppEnvironmentUtil.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/GoogleUtilities/GULUserDefaults.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Private/FIRInstanceID+Private.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Private/FIRInstanceIDCheckinPreferences.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAuthService.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinService.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDUtilities.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCombinedHandler.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDConstants.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDDefines.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDKeyPairStore.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDKeyPairUtilities.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDLogger.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRIMessageCode.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDStore.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenInfo.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAPNSInfo.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenManager.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDVersionUtilities.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/NSError+FIRInstanceID.h

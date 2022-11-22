@@ -1,0 +1,133 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ValueContainer"
+provides-nominal:
+- "6Lottie14ValueContainerC"
+provides-member:
+- ["6Lottie14ValueContainerC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AnyValueContainer"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "CGFloat"
+- "CastingPrecedence"
+- "T"
+- "ValueContainer"
+- !private "lastUpdateFrame"
+- !private "needsUpdate"
+- !private "outputValue"
+depends-member:
+- ["s18AdditiveArithmeticP", ""]
+- ["s18AdditiveArithmeticP", "infinity"]
+- ["6Lottie17AnyValueContainerP", "CGFloat"]
+- ["6Lottie17AnyValueContainerP", ""]
+- ["6Lottie17AnyValueContainerP", "lastUpdateFrame"]
+- ["6Lottie17AnyValueContainerP", "needsUpdate"]
+- !private ["6Lottie17AnyValueContainerP", "outputValue"]
+- ["6Lottie17AnyValueContainerP", "setNeedsUpdate"]
+- !private ["6Lottie17AnyValueContainerP", "setValue"]
+- ["6Lottie17AnyValueContainerP", "value"]
+- ["SB", "infinity"]
+- ["12CoreGraphics7CGFloatV", "infinity"]
+- ["s7CVarArgP", ""]
+- ["s7CVarArgP", "infinity"]
+- ["SL", ""]
+- ["SL", "infinity"]
+- ["s17CustomReflectableP", "infinity"]
+- ["s23CustomStringConvertibleP", "infinity"]
+- ["Se", "infinity"]
+- ["SE", "infinity"]
+- ["SQ", ""]
+- ["SQ", "infinity"]
+- ["s25ExpressibleByFloatLiteralP", ""]
+- ["s25ExpressibleByFloatLiteralP", "infinity"]
+- ["s27ExpressibleByIntegerLiteralP", ""]
+- ["s27ExpressibleByIntegerLiteralP", "infinity"]
+- ["SF", ""]
+- ["SF", "infinity"]
+- ["SH", ""]
+- ["SH", "infinity"]
+- ["6Lottie14InterpolatableP", "infinity"]
+- ["Sj", ""]
+- ["Sj", "infinity"]
+- ["s13SignedNumericP", ""]
+- ["s13SignedNumericP", "infinity"]
+- ["Sx", ""]
+- ["Sx", "infinity"]
+- ["6Lottie14ValueContainerC", "Bool"]
+- ["6Lottie14ValueContainerC", "CGFloat"]
+- !private ["6Lottie14ValueContainerC", ""]
+- ["6Lottie14ValueContainerC", "deinit"]
+- ["6Lottie14ValueContainerC", "init"]
+- ["6Lottie14ValueContainerC", "lastUpdateFrame"]
+- ["6Lottie14ValueContainerC", "needsUpdate"]
+- ["6Lottie14ValueContainerC", "outputValue"]
+- ["6Lottie14ValueContainerC", "setNeedsUpdate"]
+- ["6Lottie14ValueContainerC", "setValue"]
+- ["6Lottie14ValueContainerC", "value"]
+- ["s15_CVarArgAlignedP", "infinity"]
+- ["s22_CVarArgPassedAsDoubleP", "infinity"]
+- ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- ["s21_ObjectiveCBridgeableP", "infinity"]
+depends-nominal:
+- "s18AdditiveArithmeticP"
+- "6Lottie17AnyValueContainerP"
+- "SB"
+- "12CoreGraphics7CGFloatV"
+- "s7CVarArgP"
+- "SL"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- "s25ExpressibleByFloatLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- "SF"
+- "SH"
+- "6Lottie14InterpolatableP"
+- "Sj"
+- "s13SignedNumericP"
+- "Sx"
+- "6Lottie14ValueContainerC"
+- "s15_CVarArgAlignedP"
+- "s22_CVarArgPassedAsDoubleP"
+- "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/Lottie/lottie-ios-umbrella.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/Lottie/lottie-ios.modulemap"
+- "/Users/khaled/Documents/Apps/AutoBeeb/ios/build/autobeeb/Build/Products/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.modulemap"
+- "/Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/FBSDKLoginKit/FBSDKLoginKit.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "bbd82d383fd0ab523e27eb88180b2c6d"

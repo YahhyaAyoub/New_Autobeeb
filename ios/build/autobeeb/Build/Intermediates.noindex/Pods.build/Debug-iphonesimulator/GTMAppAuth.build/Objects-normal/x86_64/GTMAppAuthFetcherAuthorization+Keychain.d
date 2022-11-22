@@ -1,0 +1,9 @@
+dependencies: \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/GTMAppAuth/Source/GTMAppAuthFetcherAuthorization+Keychain.m \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Target\ Support\ Files/GTMAppAuth/GTMAppAuth-prefix.pch \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/GTMAppAuth/Source/GTMAppAuthFetcherAuthorization+Keychain.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/GTMAppAuth/Source/GTMAppAuthFetcherAuthorization.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/GTMSessionFetcher/GTMSessionFetcher.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/GTMAppAuth/Source/GTMKeychain.h

@@ -1,0 +1,44 @@
+require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
+require_relative '../node_modules/react-native/scripts/react_native_pods'
+
+platform :ios, '11.0'
+
+target 'autobeeb' do
+  config = use_native_modules!
+
+  use_react_native!(
+    :path => config[:reactNativePath],
+    # to enable hermes on iOS, change `false` to `true` and then install pods
+    :hermes_enabled => false
+  )
+  permissions_path = '../node_modules/react-native-permissions/ios'
+
+
+  pod 'QBImagePickerController', :path => '../node_modules/react-native-image-crop-picker/ios/QBImagePicker/QBImagePickerController.podspec'
+
+  pod 'GoogleSignIn', '~> 5.0.2'
+ rn_maps_path = '../node_modules/react-native-maps'
+ pod 'react-native-google-maps', :path => rn_maps_path
+ pod 'GoogleMaps', '~> 3.1.0'
+ pod 'Google-Maps-iOS-Utils', '~> 2.1.0'
+pod 'GooglePlaces'
+
+pod 'GooglePlacePicker', '~> 3.1.0'
+pod 'FBSDKCoreKit', '~> 8.1'
+pod 'FBSDKLoginKit', '~> 8.1'
+pod 'FBSDKShareKit', '~> 8.1'
+
+pod 'Permission-Notifications', :path => "#{permissions_path}/Notifications.podspec"
+  pod 'Permission-PhotoLibrary', :path => "#{permissions_path}/PhotoLibrary.podspec"
+  pod 'Permission-Camera', :path => "#{permissions_path}/Camera.podspec"
+  pod 'Permission-LocationWhenInUse', :path => "#{permissions_path}/LocationWhenInUse.podspec"
+  # Enables Flipper.
+  #
+  # Note that if you have use_frameworks! enabled, Flipper will not work and
+  # you should disable these next few lines.
+  use_flipper!("Flipper" => "0.93.0", "Flipper-DoubleConversion" => "1.1.7")
+
+  post_install do |installer|
+    react_native_post_install(installer)
+  end
+end

@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingClient.m \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingClient.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseMessaging/Firebase/Messaging/Public/FIRMessaging.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FirebaseInstanceID/FIRInstanceID_Private.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FirebaseInstanceID/FIRInstanceID.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/GoogleUtilities/GULReachabilityChecker.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConnection.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConstants.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDataMessageManager.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDefines.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingLogger.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMMessageCode.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRmqManager.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingTopicsCommon.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingUtilities.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseMessaging/Firebase/Messaging/NSError+FIRMessaging.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingPubSubRegistrar.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingTopicOperation.h

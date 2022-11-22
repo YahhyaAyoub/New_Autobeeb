@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "553ac7ae7ae7ef9e2946f94ca0e48fd2"
+build_time: [1573490481, 542188000]
+inputs:
+  "/Users/khaled/Documents/Apps/AutoBeeb/node_modules/lottie-react-native/src/ios/LottieReactNative/AnimationViewManagerModule.swift": [9223372036, 854775807]
+  "/Users/khaled/Documents/Apps/AutoBeeb/node_modules/lottie-react-native/src/ios/LottieReactNative/ContainerView.swift": [9223372036, 854775807]

@@ -1,0 +1,6 @@
+module Pods_autobeeb {
+  umbrella header "Pods-autobeeb-umbrella.h"
+
+  export *
+  module * { export * }
+}

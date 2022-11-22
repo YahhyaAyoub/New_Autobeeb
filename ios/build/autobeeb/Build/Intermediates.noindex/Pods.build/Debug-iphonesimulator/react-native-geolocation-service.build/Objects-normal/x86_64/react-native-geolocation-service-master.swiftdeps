@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "7787f4b8f161d62e3633329214219e56"
+build_time: [1609870167, 300004000]
+inputs:
+  "/Users/khaled/Documents/Apps/AutoBeeb/node_modules/react-native-geolocation-service/ios/RNFusedLocation.swift": [499162500, 0]

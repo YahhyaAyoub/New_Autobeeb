@@ -1,0 +1,12 @@
+module react_native_geolocation_service {
+  umbrella header "react-native-geolocation-service-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+
+module react_native_geolocation_service.Swift {
+  header "/Users/khaled/Documents/Apps/AutoBeeb/ios/build/autobeeb/Build/Products/Debug-iphonesimulator/react-native-geolocation-service/Swift Compatibility Header/react_native_geolocation_service-Swift.h"
+  requires objc
+}

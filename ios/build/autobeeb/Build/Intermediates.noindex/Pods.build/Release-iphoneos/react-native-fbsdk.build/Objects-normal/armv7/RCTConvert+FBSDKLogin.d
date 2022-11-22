@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/khaled/Documents/Apps/AutoBeeb/node_modules/react-native-fbsdk/ios/RCTFBSDK/login/RCTConvert+FBSDKLogin.m \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Target\ Support\ Files/react-native-fbsdk/react-native-fbsdk-prefix.pch \
+  /Users/khaled/Documents/Apps/AutoBeeb/node_modules/react-native-fbsdk/ios/RCTFBSDK/login/RCTConvert+FBSDKLogin.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FBSDKLoginKit/FBSDKLoginKit.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FBSDKLoginKit/FBSDKDeviceLoginCodeInfo.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FBSDKLoginKit/FBSDKDeviceLoginManager.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FBSDKLoginKit/FBSDKDeviceLoginManagerResult.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAccessToken.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKCopying.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequestConnection.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FBSDKLoginKit/FBSDKLoginConstants.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FBSDKLoginKit/FBSDKLoginButton.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKButton.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FBSDKLoginKit/FBSDKLoginManager.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FBSDKLoginKit/FBSDKTooltipView.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FBSDKLoginKit/FBSDKLoginManagerLoginResult.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/FBSDKLoginKit/FBSDKLoginTooltipView.h

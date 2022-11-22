@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "bb804c2504e51f4b165399d72640213a"
+build_time: [1609855038, 624971000]
+inputs:
+  "/Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Swift/Enums+Extensions.swift": [1609241437, 461326628]

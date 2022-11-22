@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseMessaging/Firebase/Messaging/Protos/GtalkCore.pbobjc.m \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBProtocolBuffers_RuntimeSupport.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBBootstrap.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBDescriptor_PackagePrivate.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBDescriptor.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBRuntimeTypes.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBWireFormat.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBExtensionInternals.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBMessage_PackagePrivate.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBMessage.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBRootObject_PackagePrivate.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBRootObject.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBUtilities_PackagePrivate.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBUtilities.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBArray.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseMessaging/Firebase/Messaging/Protos/GtalkCore.pbobjc.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBProtocolBuffers.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBCodedInputStream.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBCodedOutputStream.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBDictionary.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBExtensionRegistry.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBUnknownField.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBUnknownFieldSet.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBWellKnownTypes.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBAny.pbobjc.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBDuration.pbobjc.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBTimestamp.pbobjc.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBApi.pbobjc.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBEmpty.pbobjc.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBFieldMask.pbobjc.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBSourceContext.pbobjc.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBStruct.pbobjc.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBType.pbobjc.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/Protobuf/GPBWrappers.pbobjc.h

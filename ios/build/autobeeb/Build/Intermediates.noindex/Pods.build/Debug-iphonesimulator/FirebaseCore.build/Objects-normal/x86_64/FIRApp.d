@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRApp.m \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRAnalyticsConfiguration.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRBundleUtil.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRComponentContainerInternal.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRComponentContainer.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRLibrary.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRConfigurationInternal.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRFirebaseUserAgent.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRAppInternal.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRCoreDiagnosticsConnector.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRLogger.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIROptionsInternal.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Private/GoogleUtilities/GULAppEnvironmentUtil.h

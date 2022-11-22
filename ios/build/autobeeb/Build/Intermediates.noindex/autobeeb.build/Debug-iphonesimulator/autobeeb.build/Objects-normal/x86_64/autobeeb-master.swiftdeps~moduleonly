@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "d8941600f3cb6ad9dbaca03f5b0a66e8"
+build_time: [1609870187, 586876000]
+inputs:
+  "/Users/khaled/Documents/Apps/AutoBeeb/ios/swiftworkaround.swift": [1572774535, 541051851]

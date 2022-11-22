@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "f1389c51099d040bc071da6aa7373995"
+build_time: [1609855011, 208507000]
+inputs:
+  "/Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Swift/AccessToken.swift": [1609241428, 864705277]
+  "/Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Swift/Imports.swift": [1609241428, 864998872]
+  "/Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Swift/Permission.swift": [1609241428, 864364294]
+  "/Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Swift/Settings.swift": [1609241428, 865285947]

@@ -1,0 +1,225 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NullCompositionLayer"
+provides-nominal:
+- "6Lottie20NullCompositionLayerC"
+provides-member:
+- ["6Lottie20NullCompositionLayerC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "CastingPrecedence"
+- "CompositionLayer"
+- "LayerModel"
+- "NSCoder"
+- "NullCompositionLayer"
+- !private "StringLiteralType"
+- !private "fatalError"
+depends-member:
+- ["So7CALayerC", "LayerModel"]
+- ["So7CALayerC", "NSCoder"]
+- !private ["So7CALayerC", "NullCompositionLayer"]
+- ["So7CALayerC", ""]
+- !private ["So7CALayerC", "fatalError"]
+- ["So7CALayerC", "init"]
+- !private ["So13CAMediaTimingP", "NullCompositionLayer"]
+- ["So13CAMediaTimingP", ""]
+- ["So13CAMediaTimingP", "childKeypaths"]
+- ["So13CAMediaTimingP", "contentsLayer"]
+- ["So13CAMediaTimingP", "displayContentsWithFrame"]
+- ["So13CAMediaTimingP", "displayWithFrame"]
+- !private ["So13CAMediaTimingP", "fatalError"]
+- ["So13CAMediaTimingP", "inFrame"]
+- ["So13CAMediaTimingP", "init"]
+- ["So13CAMediaTimingP", "keypathLayer"]
+- ["So13CAMediaTimingP", "keypathName"]
+- ["So13CAMediaTimingP", "keypathProperties"]
+- ["So13CAMediaTimingP", "layerDelegate"]
+- ["So13CAMediaTimingP", "maskLayer"]
+- ["So13CAMediaTimingP", "matteLayer"]
+- ["So13CAMediaTimingP", "matteType"]
+- ["So13CAMediaTimingP", "outFrame"]
+- ["So13CAMediaTimingP", "renderScale"]
+- ["So13CAMediaTimingP", "startFrame"]
+- ["So13CAMediaTimingP", "timeStretch"]
+- ["So13CAMediaTimingP", "transformNode"]
+- !private ["So6CGSizeV", "zero"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "fatalError"]
+- !private ["s7CVarArgP", "init"]
+- ["6Lottie16CompositionLayerC", "LayerModel"]
+- ["6Lottie16CompositionLayerC", "NSCoder"]
+- !private ["6Lottie16CompositionLayerC", "NullCompositionLayer"]
+- ["6Lottie16CompositionLayerC", ""]
+- !private ["6Lottie16CompositionLayerC", "fatalError"]
+- ["6Lottie16CompositionLayerC", "init"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "fatalError"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "zero"]
+- ["6Lottie20CustomLayerDebuggingP", ""]
+- !private ["6Lottie20CustomLayerDebuggingP", "fatalError"]
+- !private ["6Lottie20CustomLayerDebuggingP", "init"]
+- !private ["s17CustomReflectableP", "zero"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "fatalError"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["Se", "zero"]
+- !private ["SE", "zero"]
+- ["SQ", ""]
+- !private ["SQ", "fatalError"]
+- !private ["SQ", "init"]
+- !private ["SQ", "zero"]
+- ["SH", ""]
+- !private ["SH", "fatalError"]
+- !private ["SH", "init"]
+- ["6Lottie17KeypathSearchableP", ""]
+- !private ["6Lottie17KeypathSearchableP", "fatalError"]
+- !private ["6Lottie17KeypathSearchableP", "init"]
+- !private ["6Lottie14LayerDebuggingP", "fatalError"]
+- !private ["So8NSCodingP", "NullCompositionLayer"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "childKeypaths"]
+- ["So8NSCodingP", "contentsLayer"]
+- ["So8NSCodingP", "displayContentsWithFrame"]
+- ["So8NSCodingP", "displayWithFrame"]
+- !private ["So8NSCodingP", "fatalError"]
+- ["So8NSCodingP", "inFrame"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "keypathLayer"]
+- ["So8NSCodingP", "keypathName"]
+- ["So8NSCodingP", "keypathProperties"]
+- ["So8NSCodingP", "layerDelegate"]
+- ["So8NSCodingP", "maskLayer"]
+- ["So8NSCodingP", "matteLayer"]
+- ["So8NSCodingP", "matteType"]
+- ["So8NSCodingP", "outFrame"]
+- ["So8NSCodingP", "renderScale"]
+- ["So8NSCodingP", "startFrame"]
+- ["So8NSCodingP", "timeStretch"]
+- ["So8NSCodingP", "transformNode"]
+- ["So8NSObjectC", "LayerModel"]
+- ["So8NSObjectC", "NSCoder"]
+- !private ["So8NSObjectC", "NullCompositionLayer"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "fatalError"]
+- !private ["So8NSObjectP", "NullCompositionLayer"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "childKeypaths"]
+- ["So8NSObjectP", "contentsLayer"]
+- ["So8NSObjectP", "displayContentsWithFrame"]
+- ["So8NSObjectP", "displayWithFrame"]
+- !private ["So8NSObjectP", "fatalError"]
+- ["So8NSObjectP", "inFrame"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "keypathLayer"]
+- ["So8NSObjectP", "keypathName"]
+- ["So8NSObjectP", "keypathProperties"]
+- ["So8NSObjectP", "layerDelegate"]
+- ["So8NSObjectP", "maskLayer"]
+- ["So8NSObjectP", "matteLayer"]
+- ["So8NSObjectP", "matteType"]
+- ["So8NSObjectP", "outFrame"]
+- ["So8NSObjectP", "renderScale"]
+- ["So8NSObjectP", "startFrame"]
+- ["So8NSObjectP", "timeStretch"]
+- ["So8NSObjectP", "transformNode"]
+- !private ["So14NSSecureCodingP", "NullCompositionLayer"]
+- ["So14NSSecureCodingP", ""]
+- ["So14NSSecureCodingP", "childKeypaths"]
+- ["So14NSSecureCodingP", "contentsLayer"]
+- ["So14NSSecureCodingP", "displayContentsWithFrame"]
+- ["So14NSSecureCodingP", "displayWithFrame"]
+- !private ["So14NSSecureCodingP", "fatalError"]
+- ["So14NSSecureCodingP", "inFrame"]
+- ["So14NSSecureCodingP", "init"]
+- ["So14NSSecureCodingP", "keypathLayer"]
+- ["So14NSSecureCodingP", "keypathName"]
+- ["So14NSSecureCodingP", "keypathProperties"]
+- ["So14NSSecureCodingP", "layerDelegate"]
+- ["So14NSSecureCodingP", "maskLayer"]
+- ["So14NSSecureCodingP", "matteLayer"]
+- ["So14NSSecureCodingP", "matteType"]
+- ["So14NSSecureCodingP", "outFrame"]
+- ["So14NSSecureCodingP", "renderScale"]
+- ["So14NSSecureCodingP", "startFrame"]
+- ["So14NSSecureCodingP", "timeStretch"]
+- ["So14NSSecureCodingP", "transformNode"]
+- ["6Lottie20NullCompositionLayerC", "LayerModel"]
+- ["6Lottie20NullCompositionLayerC", "NSCoder"]
+- !private ["6Lottie20NullCompositionLayerC", "NullCompositionLayer"]
+- ["6Lottie20NullCompositionLayerC", ""]
+- ["6Lottie20NullCompositionLayerC", "deinit"]
+- !private ["6Lottie20NullCompositionLayerC", "fatalError"]
+- ["6Lottie20NullCompositionLayerC", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "zero"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fatalError"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "fatalError"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "zero"]
+depends-nominal:
+- "So7CALayerC"
+- "So13CAMediaTimingP"
+- !private "So6CGSizeV"
+- "s7CVarArgP"
+- "6Lottie16CompositionLayerC"
+- "s28CustomDebugStringConvertibleP"
+- "6Lottie20CustomLayerDebuggingP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- "SH"
+- "6Lottie17KeypathSearchableP"
+- !private "6Lottie14LayerDebuggingP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- "6Lottie20NullCompositionLayerC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/Lottie/lottie-ios-umbrella.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/Lottie/lottie-ios.modulemap"
+- "/Users/khaled/Documents/Apps/AutoBeeb/ios/build/autobeeb/Build/Products/Debug-iphonesimulator/FBSDKCoreKit/FBSDKCoreKit.modulemap"
+- "/Users/khaled/Documents/Apps/AutoBeeb/ios/Pods/Headers/Public/FBSDKLoginKit/FBSDKLoginKit.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c6d6e649a7cc48789aa1dda889faecb0"
