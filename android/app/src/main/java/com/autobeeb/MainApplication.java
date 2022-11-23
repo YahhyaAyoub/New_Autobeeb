@@ -1,5 +1,4 @@
-package com.autobeeb.autobeeb;
-
+package com.autobeeb;
 import android.app.Application;
 import android.content.Context;
 import com.facebook.react.PackageList;
